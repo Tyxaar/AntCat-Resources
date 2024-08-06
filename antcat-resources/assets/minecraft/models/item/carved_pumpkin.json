@@ -1,0 +1,14 @@
+{
+ "parent": "minecraft:block/carved_pumpkin",
+ "textures": {
+  "layer0": "minecraft:item/carved_pumpkin"
+ },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/appy_head"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/jace_head"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/plume_head"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/plumabot_007"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/peepy"},
+{"predicate": {"custom_model_data": 6}, "model": "template:item/grumbot"}
+]
+}
