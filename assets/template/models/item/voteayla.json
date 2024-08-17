@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "template:item/voteayla",
+		"particle": "template:item/voteayla"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 0, 32],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 0, 180],
+			"translation": [2, 8, -1.75],
+			"scale": [0.25, 1, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 0, 180],
+			"translation": [-2, 8, -1.75],
+			"scale": [0.25, 1, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, -5, 45],
+			"translation": [8, 0, -20]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, -5, 45],
+			"translation": [20, 0, -8]
+		},
+		"ground": {
+			"translation": [-4, 5, -4],
+			"scale": [0.45, 1, 0.45]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [-4, 4, 0],
+			"scale": [0.5, 1, 0.5]
+		},
+		"head": {
+			"rotation": [90, 0, 180],
+			"translation": [8, 8, -14]
+		},
+		"fixed": {
+			"rotation": [-90, 180, 0],
+			"translation": [7.25, 7.25, -8.01],
+			"scale": [0.9, 1, 0.9]
+		}
+	}
+}
