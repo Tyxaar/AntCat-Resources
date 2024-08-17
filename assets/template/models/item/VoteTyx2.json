@@ -2,15 +2,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [24, 24],
 	"textures": {
-		"1": "Vote4Tyx",
-		"particle": "Vote4Tyx"
+		"1": "Vote4Tyx alt"
 	},
 	"elements": [
 		{
-			"name": "Vote4Tyx_0",
-			"from": [0, 0, 15],
-			"to": [16, 16, 15.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 15]},
+			"name": "Vote4Tyx alt_0",
+			"from": [0, 0, 8],
+			"to": [16, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"east": {"uv": [15.5, 0, 16, 16], "texture": "#1"},
@@ -21,9 +20,29 @@
 			}
 		}
 	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [7, -3, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [7, -3, 0]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 0, -7.25]
+		},
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
-			"name": "Vote4Tyx",
+			"name": "Vote4Tyx alt",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [0]
