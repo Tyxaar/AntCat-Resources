@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_axe"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/tyxaxe"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/wizardaxe"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/leadpipe"}
+]
+}

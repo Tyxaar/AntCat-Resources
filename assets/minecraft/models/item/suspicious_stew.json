@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/suspicious_stew"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/glassmushroom"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/crestedlobotomy"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/morningsabsinthe"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/mothsstarrynight"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/middayhalo"}
+]
+}

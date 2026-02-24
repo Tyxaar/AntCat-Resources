@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/carritas"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/gingerbreadcookie"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/chocolatebox"}
+]
+}

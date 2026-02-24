@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/yellow_dye"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/eastereggtrophy"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/eastereggbeenie"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/eastereggcake"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/eastereggdisco"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/eastereggpepper"},
+{"predicate": {"custom_model_data": 6}, "model": "template:item/eastereggplume"},
+{"predicate": {"custom_model_data": 7}, "model": "template:item/aylaegg"},
+{"predicate": {"custom_model_data": 8}, "model": "template:item/fantomegg"},
+{"predicate": {"custom_model_data": 9}, "model": "template:item/glassegg"},
+{"predicate": {"custom_model_data": 10}, "model": "template:item/jestegg"},
+{"predicate": {"custom_model_data": 11}, "model": "template:item/eastereggdragon"},
+{"predicate": {"custom_model_data": 12}, "model": "template:item/eastereggguardian"},
+{"predicate": {"custom_model_data": 13}, "model": "template:item/eastereggocelot"},
+{"predicate": {"custom_model_data": 14}, "model": "template:item/eastereggpig"},
+{"predicate": {"custom_model_data": 15}, "model": "template:item/eastereggwolf"},
+{"predicate": {"custom_model_data": 16}, "model": "template:item/eastereggwarden"},
+{"predicate": {"custom_model_data": 17}, "model": "template:item/eastereggvillager"},
+{"predicate": {"custom_model_data": 18}, "model": "template:item/eastereggstrider"},
+{"predicate": {"custom_model_data": 19}, "model": "template:item/eastereggpolarbear"},
+{"predicate": {"custom_model_data": 20}, "model": "template:item/alliumegg"},
+{"predicate": {"custom_model_data": 21}, "model": "template:item/tulipegg"},
+{"predicate": {"custom_model_data": 22}, "model": "template:item/mushegg"},
+{"predicate": {"custom_model_data": 23}, "model": "template:item/orchidegg"},
+{"predicate": {"custom_model_data": 24}, "model": "template:item/petalsegg"},
+{"predicate": {"custom_model_data": 25}, "model": "template:item/poppyegg"},
+{"predicate": {"custom_model_data": 26}, "model": "template:item/roseegg"},
+{"predicate": {"custom_model_data": 27}, "model": "template:item/sunegg"},
+{"predicate": {"custom_model_data": 28}, "model": "template:item/witheregg"},
+{"predicate": {"custom_model_data": 29}, "model": "template:item/hotairballoon"}
+]
+}

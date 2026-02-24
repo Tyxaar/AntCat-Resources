@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bread"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/glowberrycake"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/dumplings"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/bakedbrie"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/concha"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/pyshki"},
+{"predicate": {"custom_model_data": 6}, "model": "template:item/foodboxes"},
+{"predicate": {"custom_model_data": 7}, "model": "template:item/cerealbox"},
+{"predicate": {"custom_model_data": 8}, "model": "template:item/sourlichen"},
+{"predicate": {"custom_model_data": 9}, "model": "template:item/cakecake"},
+{"predicate": {"custom_model_data": 10}, "model": "template:item/cakepie"},
+{"predicate": {"custom_model_data": 11}, "model": "template:item/kulich"},
+{"predicate": {"custom_model_data": 12}, "model": "template:item/cakecakes"},
+{"predicate": {"custom_model_data": 13}, "model": "template:item/butterflybiscuits"}
+]
+}

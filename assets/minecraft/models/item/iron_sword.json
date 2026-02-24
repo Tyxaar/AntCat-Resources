@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+"overrides":[
+{"predicate": {"custom_model_data": 1}, "model": "template:item/cleaver"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/wardcarverglaive"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/deimoslongsword"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/leadpipe"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/ritualknife"}
+]
+}

@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [714, 1009],
+	"textures": {
+		"1": "template:item/fantomlerportrait"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [16, 0, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 0.35854, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0.35854, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 0.35854, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.35854, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-79, 0, 0],
+			"translation": [1.75, 5.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-79, 0, 0],
+			"translation": [-2, 5.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [1, 7.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [-3, 7.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"rotation": [-90, 0, 0],
+			"translation": [1, 7.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [-57, -34, -2],
+			"translation": [1.75, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [1.75, 3.5, -8.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [14.75, 0, -16.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}

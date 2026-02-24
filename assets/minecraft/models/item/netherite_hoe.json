@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/tyxhoe"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/wandoflaei"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/wizardhoe"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/leadpipe"}
+]
+}

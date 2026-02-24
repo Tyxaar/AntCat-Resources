@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/writable_book"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/log"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/canister"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/envelope1"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/envelope2"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/soupbook"},
+{"predicate": {"custom_model_data": 6}, "model": "template:item/taperecorder"},
+{"predicate": {"custom_model_data": 7}, "model": "template:item/floppydisk"},
+{"predicate": {"custom_model_data": 8}, "model": "template:item/screentablet"},
+{"predicate": {"custom_model_data": 9}, "model": "template:item/oldnotebook"},
+{"predicate": {"custom_model_data": 10}, "model": "template:item/ledger"},
+{"predicate": {"custom_model_data": 11}, "model": "template:item/redstonehandbook"},
+{"predicate": {"custom_model_data": 12}, "model": "template:item/constructionhandbook"},
+{"predicate": {"custom_model_data": 13}, "model": "template:item/combathandbook"},
+{"predicate": {"custom_model_data": 14}, "model": "template:item/essentialhandbook"},
+{"predicate": {"custom_model_data": 15}, "model": "template:item/grimoire"},
+{"predicate": {"custom_model_data": 16}, "model": "template:item/ollyscroll"},
+{"predicate": {"custom_model_data": 17}, "model": "template:item/playerbook"},
+{"predicate": {"custom_model_data": 18}, "model": "template:item/storytellerbook"}
+]
+}

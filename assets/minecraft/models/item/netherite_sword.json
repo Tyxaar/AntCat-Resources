@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/tyxsword"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/rapier"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/shortsword"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/longsword"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/harpoon"},
+{"predicate": {"custom_model_data": 6}, "model": "template:item/alanaguitar"},
+{"predicate": {"custom_model_data": 7}, "model": "template:item/cakespear"},
+{"predicate": {"custom_model_data": 8}, "model": "template:item/darkinblade"},
+{"predicate": {"custom_model_data": 9}, "model": "template:item/pantheonspear"},
+{"predicate": {"custom_model_data": 10}, "model": "template:item/rhaast"},
+{"predicate": {"custom_model_data": 11}, "model": "template:item/wizarddagger"},
+{"predicate": {"custom_model_data": 12}, "model": "template:item/leadpipe"},
+{"predicate": {"custom_model_data": 13}, "model": "template:item/needlesword"}
+]
+}

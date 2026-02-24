@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bowl"
+  },
+"overrides": [
+{"predicate": {"custom_model_data": 1}, "model": "template:item/vexsign"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/vexstirring"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/vexwave"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/vexheadsit"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/grimoire"},
+{"predicate": {"custom_model_data": 6}, "model": "template:item/sourbow"},
+{"predicate": {"custom_model_data": 7}, "model": "template:item/sourfiddle"},
+{"predicate": {"custom_model_data": 8}, "model": "template:item/sourkalimba"},
+{"predicate": {"custom_model_data": 9}, "model": "template:item/braewindscane"},
+{"predicate": {"custom_model_data": 10}, "model": "template:item/staff"},
+{"predicate": {"custom_model_data": 11}, "model": "template:item/harveylute"},
+{"predicate": {"custom_model_data": 12}, "model": "template:item/micahbby"}
+]
+}

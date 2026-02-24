@@ -4,7 +4,11 @@
     "layer0": "minecraft:item/honey_bottle"
   },
 "overrides": [
-{"predicate": {"custom_model_data": 1}, "model": "template:item/moss_smoothie"}
+{"predicate": {"custom_model_data": 1}, "model": "template:item/moss_smoothie"},
+{"predicate": {"custom_model_data": 2}, "model": "template:item/limejam"},
+{"predicate": {"custom_model_data": 3}, "model": "template:item/honeyjar"},
+{"predicate": {"custom_model_data": 4}, "model": "template:item/blueberryjam"},
+{"predicate": {"custom_model_data": 5}, "model": "template:item/strawberryjam"}
 ]
 }
 
